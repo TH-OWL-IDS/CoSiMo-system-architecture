@@ -10,6 +10,8 @@ A living guide and decision archive for the CoSiMo system architecture. See `REA
 - All files in English
 - File names: lowercase, hyphenated (e.g. `my-document.md`)
 - ADRs in `docs/decisions/` follow the naming pattern `NNN-short-title.md`
+- Before using a term that may be project-specific, check `glossary.md` first and use definitions as written
+- When introducing a new term in any document, add it to `glossary.md` before or alongside the change
 
 ## What not to do
 - Do not make or imply architectural decisions without explicit instruction
