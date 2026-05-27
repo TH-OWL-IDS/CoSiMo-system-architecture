@@ -1,14 +1,18 @@
 # CoSiMo — Concierge System für inklusive Mobilität
 
-CoSiMo is an inclusive mobility concierge system designed to help people safely and accessibly interact with connected mobility environments. Its primary use case is the MonoCab — an autonomous, single-rail vehicle — and the broader goal is to establish a transferable, open standard for inclusive digital mobility.
+**CoSiMo** is the inclusive mobility concierge system built for the [MonoCab](https://monocab-system.com) — guiding passengers through the full travel experience in an accessible, privacy-respecting way. The broader goal is a transferable, open standard for inclusive digital mobility that can reach beyond the MonoCab.
+
+This system architecture defines how that experience is built, coordinated, and kept trustworthy.
 
 ---
 
 ## About the Project
 
-CoSiMo aims to provide a multimodal assistant for real-world mobility scenarios: user guidance, device communication, and inclusive interaction across diverse user needs. The project prioritizes accessibility, data privacy (DSGVO-compliant), and interoperability over closed vendor ecosystems.
+CoSiMo is part of the **NEXT.IN.NRW** innovation program. It prioritizes:
 
-The project is part of the **NEXT.IN.NRW** innovation program and is actively developed by three partners.
+- **Accessibility** — barrier-free interaction across all user groups
+- **Privacy** — DSGVO-compliant by design
+- **Interoperability** — open standards over closed vendor ecosystems
 
 ---
 
@@ -24,7 +28,7 @@ The project is part of the **NEXT.IN.NRW** innovation program and is actively de
 
 ## About this Repository
 
-This repository is the **central guide and workplace for the CoSiMo system architecture**. It documents how the system is intended to work, captures the reasoning behind architectural decisions, and serves as a shared reference for all project partners.
+This repository is the **central guide and workplace for the CoSiMo system architecture**. It documents how the system is intended to work, captures the reasoning behind every architectural decision, and serves as the shared reference for all project partners.
 
 It is not a code repository. No production code lives here.
 
@@ -53,14 +57,14 @@ cosimo/
 ├── system/                # Structured system definitions
 ├── infrastructure/        # Hosting, deployment, and infrastructure specs
 ├── diagrams/              # Visual models and exports
-└── research/              # References, Ideas
+└── research/              # References, ideas, and competitive analysis
 ```
 
 ---
 
 ## How to Use this Repository
 
-Start with [docs/vision/](docs/vision/) to understand the goals and principles before diving into architecture or decisions. Architectural choices are recorded as **Architectural Decision Records (ADRs)** in [docs/decisions/](docs/decisions/), each capturing the context, options considered, and the reasoning behind the chosen direction. To propose a change or raise a question, open an issue or a pull request against the relevant document.
+Start with [docs/vision/](docs/vision/) to understand the goals and principles before diving into architecture or decisions. Architectural choices are recorded as **Architectural Decision Records (ADRs)** in [docs/decisions/](docs/decisions/), each capturing the context, options considered, and the reasoning behind the chosen direction.
 
 For a full guide on how to navigate, add, change, or remove content — including the ADR template and file conventions — see [how-to.md](how-to.md).
 
