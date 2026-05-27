@@ -14,3 +14,4 @@
 - Added `how-to.md` with contribution and navigation guide
 - Added `CLAUDE.md` and `AGENTS.md` with project context and mandatory rules for AI assistants
 - Refined `README.md` to centre the MonoCab travel use case and sharpen the project framing
+- Added first entries to `glossary.md`: ADR, Open Standard
