@@ -22,7 +22,7 @@ CoSiMo is part of the **NEXT.IN.NRW** innovation program. It prioritizes:
 |---|---|
 | [TH OWL](https://www.th-owl.de) | Lead research & development |
 | [Hochschule Rhein-Waal](https://www.hochschule-rhein-waal.de) | Research partner |
-| [xignsys GmbH](https://xignsys.com) | Industry partner |
+| [XignSys GmbH](https://xignsys.com) | Industry partner |
 
 ---
 

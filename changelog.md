@@ -16,3 +16,4 @@
 - Refined `README.md` to centre the MonoCab travel use case and sharpen the project framing
 - Added first entries to `glossary.md`: ADR, Open Standard
 - Updated `CLAUDE.md` and `AGENTS.md` to enforce glossary usage
+- Corrected XignSys GmbH spelling in `README.md`
