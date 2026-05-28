@@ -44,7 +44,6 @@ cosimo/
 ├── docs/                  # All written documentation
 │   ├── vision/            # Goals, principles, and scope
 │   ├── architecture/      # System design and component descriptions
-│   ├── governance/        # Roles, responsibilities, and processes
 │   ├── workflows/         # Operational and development workflows
 │   ├── security/          # Security concepts and requirements
 │   └── decisions/         # Architectural Decision Records (ADRs)

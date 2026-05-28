@@ -14,7 +14,6 @@ This guide explains how to navigate, add, change, and remove content in the CoSi
 | `changelog.md` | A running log of all changes made to this repository |
 | `docs/vision/` | Goals, guiding principles, scope, and non-goals |
 | `docs/architecture/` | How the system is designed — components, boundaries, data flows |
-| `docs/governance/` | Who is responsible for what, and how decisions are made |
 | `docs/workflows/` | Step-by-step processes for recurring activities |
 | `docs/security/` | Security requirements, threat models, compliance notes |
 | `docs/decisions/` | Architectural Decision Records (ADRs) |

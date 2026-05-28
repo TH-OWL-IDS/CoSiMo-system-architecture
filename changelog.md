@@ -12,6 +12,7 @@
 - Created `CONTRIBUTING.md` at repo root (empty placeholder for GitHub)
 - Updated `README.md` — replaced bullet points in "About the Project" with a link to the vision; removed stale `docs/participation/` reference from repository structure
 - Updated `how-to.md` — removed stale `docs/participation/` row from the "What Lives Where" table
+- Removed `docs/governance/` folder (empty, no longer needed); removed references from `README.md` and `how-to.md`
 
 ## 2026-05-27
 
