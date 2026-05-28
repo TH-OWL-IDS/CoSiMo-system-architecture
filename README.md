@@ -2,6 +2,8 @@
 
 This repository is the central workplace for planning and documenting the architecture of the **CoSiMo** system — the inclusive mobility concierge built for the [MonoCab](https://monocab-system.com). It captures how the system is intended to work, records the reasoning behind every architectural decision, and serves as the shared reference for all project partners.
 
+For UI/UX decisions and interface concepts that go beyond what is derivable from the system architecture alone, see the companion repository [CoSiMo-Interfaces-UI-UX](https://github.com/TH-OWL-IDS/CoSiMo-Interfaces-UI-UX).
+
 ---
 
 ## Where to find what

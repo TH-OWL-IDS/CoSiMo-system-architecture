@@ -7,6 +7,7 @@
 ## 2026-05-28
 
 - Updated `README.md` — new title "System Architecture Planning", streamlined intro, "where to find what" navigation table, removed "About the Project" and "Partners" sections
+- Updated `README.md` — added cross-reference to CoSiMo-Interfaces-UI-UX companion repository
 
 - Created `docs/vision/vision.md` — first full vision document for CoSiMo
 - Updated `docs/vision/vision.md` — added specific target groups, concierge character section, spatial/multisensory interaction principle, and explicit non-surveillance boundary
