@@ -13,6 +13,8 @@
 - Updated `README.md` — replaced bullet points in "About the Project" with a link to the vision; removed stale `docs/participation/` reference from repository structure
 - Updated `how-to.md` — removed stale `docs/participation/` row from the "What Lives Where" table
 - Removed `docs/governance/` folder (empty, no longer needed); removed references from `README.md` and `how-to.md`
+- Created `docs/security/security-overview.md` — first security document covering principles, data categories, responsibility allocation, system boundary, threat model, and open questions
+- Updated `glossary.md` — added DSGVO, Foundation Model, Graceful Degradation, Privacy-by-Design, Security-by-Design
 
 ## 2026-05-27
 
