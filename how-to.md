@@ -13,12 +13,13 @@ This guide explains how to navigate, add, change, and remove content in the CoSi
 | `glossary.md` | Shared definitions for terms used across the project |
 | `changelog.md` | A running log of all changes made to this repository |
 | `docs/vision/` | Goals, guiding principles, scope, and non-goals |
-| `docs/architecture/` | How the system is designed — components, boundaries, data flows |
+| `docs/system/monocab/` | Architecture and infrastructure of the MonoCab vehicle |
+| `docs/system/station/` | Architecture and infrastructure of the MonoCab station |
+| `docs/system/cosimo-cloud/` | Architecture and infrastructure of the CoSiMo cloud backend |
+| `docs/system/app/` | Architecture and infrastructure of the CoSiMo apps |
 | `docs/workflows/` | Step-by-step processes for recurring activities |
 | `docs/security/` | Security requirements, threat models, compliance notes |
 | `docs/decisions/` | Architectural Decision Records (ADRs) |
-| `system/` | Structured definitions: actors, services, permissions, data models |
-| `infrastructure/` | Hosting, deployment, Docker, monitoring, backup specs |
 | `diagrams/` | Visual models — ecosystem, flows, permissions, exports |
 | `research/` | References, Ideas, working notes |
 

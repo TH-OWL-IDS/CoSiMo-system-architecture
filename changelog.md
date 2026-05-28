@@ -15,6 +15,9 @@
 - Removed `docs/governance/` folder (empty, no longer needed); removed references from `README.md` and `how-to.md`
 - Created `docs/security/security-overview.md` — first security document covering principles, data categories, system boundary, threat model, and open questions
 - Removed "Responsibility Allocation" section from `docs/security/security-overview.md`
+- Created `docs/system/` structure with stubs for `monocab/`, `station/`, `cosimo-cloud/`, and `app/` (each with `architecture.md` and `infrastructure.md`)
+- Updated `README.md` and `how-to.md` to reflect new `docs/system/` folder layout
+- Removed empty folders `docs/architecture/`, `system/`, and `infrastructure/`
 - Updated `glossary.md` — added DSGVO, Foundation Model, Graceful Degradation, Privacy-by-Design, Security-by-Design
 
 ## 2026-05-27

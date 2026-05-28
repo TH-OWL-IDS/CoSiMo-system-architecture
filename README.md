@@ -43,13 +43,14 @@ cosimo/
 │
 ├── docs/                  # All written documentation
 │   ├── vision/            # Goals, principles, and scope
-│   ├── architecture/      # System design and component descriptions
+│   ├── system/
+│   │   ├── monocab/       # Architecture and infrastructure of the MonoCab vehicle
+│   │   ├── station/       # Architecture and infrastructure of the MonoCab station
+│   │   ├── cosimo-cloud/  # Architecture and infrastructure of the CoSiMo cloud backend
+│   │   └── app/           # Architecture and infrastructure of the CoSiMo apps
 │   ├── workflows/         # Operational and development workflows
 │   ├── security/          # Security concepts and requirements
 │   └── decisions/         # Architectural Decision Records (ADRs)
-│
-├── system/                # Structured system definitions
-├── infrastructure/        # Hosting, deployment, and infrastructure specs
 ├── diagrams/              # Visual models and exports
 └── research/              # References, ideas, and competitive analysis
 ```
