@@ -13,6 +13,8 @@ This guide explains how to navigate, add, change, and remove content in the CoSi
 | `glossary.md` | Shared definitions for terms used across the project |
 | `changelog.md` | A running log of all changes made to this repository |
 | `docs/vision/` | Goals, guiding principles, scope, and non-goals |
+| `docs/system/overview.md` | System-wide component map — what exists and how it connects |
+| `docs/system/actors.md` | Who interacts with the system and in what role |
 | `docs/system/monocab/` | Architecture and infrastructure of the MonoCab vehicle |
 | `docs/system/station/` | Architecture and infrastructure of the MonoCab station |
 | `docs/system/cosimo-cloud/` | Architecture and infrastructure of the CoSiMo cloud backend |

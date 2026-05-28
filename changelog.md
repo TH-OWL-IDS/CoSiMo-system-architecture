@@ -18,6 +18,8 @@
 - Created `docs/system/` structure with stubs for `monocab/`, `station/`, `cosimo-cloud/`, and `app/` (each with `architecture.md` and `infrastructure.md`)
 - Updated `README.md` and `how-to.md` to reflect new `docs/system/` folder layout
 - Removed empty folders `docs/architecture/`, `system/`, and `infrastructure/`
+- Created `docs/system/overview.md` — system component map covering MonoCab, station, CoSiMo concierge, cloud, and app
+- Updated `docs/system/overview.md` — expanded app section to cover the multi-touchpoint concept (carry-on AI, physical devices)
 - Updated `glossary.md` — added DSGVO, Foundation Model, Graceful Degradation, Privacy-by-Design, Security-by-Design
 
 ## 2026-05-27

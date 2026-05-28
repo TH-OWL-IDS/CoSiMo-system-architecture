@@ -44,6 +44,8 @@ cosimo/
 ├── docs/                  # All written documentation
 │   ├── vision/            # Goals, principles, and scope
 │   ├── system/
+│   │   ├── overview.md    # System-wide component map
+│   │   ├── actors.md      # Who interacts with the system and in what role
 │   │   ├── monocab/       # Architecture and infrastructure of the MonoCab vehicle
 │   │   ├── station/       # Architecture and infrastructure of the MonoCab station
 │   │   ├── cosimo-cloud/  # Architecture and infrastructure of the CoSiMo cloud backend
