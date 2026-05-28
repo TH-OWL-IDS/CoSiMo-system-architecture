@@ -4,6 +4,11 @@
 
 ---
 
+## 2026-05-28
+
+- Created `docs/vision/vision.md` — first full vision document for CoSiMo
+- Updated `docs/vision/vision.md` — added specific target groups, concierge character section, spatial/multisensory interaction principle, and explicit non-surveillance boundary
+
 ## 2026-05-27
 
 - Initialized repository structure (`docs/`, `system/`, `infrastructure/`, `diagrams/`, `research/`)
