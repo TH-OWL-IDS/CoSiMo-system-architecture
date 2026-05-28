@@ -8,6 +8,8 @@
 
 - Created `docs/vision/vision.md` — first full vision document for CoSiMo
 - Updated `docs/vision/vision.md` — added specific target groups, concierge character section, spatial/multisensory interaction principle, and explicit non-surveillance boundary
+- Removed `docs/participation/` folder (empty, no longer needed)
+- Created `CONTRIBUTING.md` at repo root (empty placeholder for GitHub)
 
 ## 2026-05-27
 
