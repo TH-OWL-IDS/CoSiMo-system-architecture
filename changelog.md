@@ -10,6 +10,8 @@
 - Updated `docs/vision/vision.md` — added specific target groups, concierge character section, spatial/multisensory interaction principle, and explicit non-surveillance boundary
 - Removed `docs/participation/` folder (empty, no longer needed)
 - Created `CONTRIBUTING.md` at repo root (empty placeholder for GitHub)
+- Updated `README.md` — replaced bullet points in "About the Project" with a link to the vision; removed stale `docs/participation/` reference from repository structure
+- Updated `how-to.md` — removed stale `docs/participation/` row from the "What Lives Where" table
 
 ## 2026-05-27
 

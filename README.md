@@ -8,11 +8,7 @@ This system architecture defines how that experience is built, coordinated, and 
 
 ## About the Project
 
-CoSiMo is part of the **NEXT.IN.NRW** innovation program. It prioritizes:
-
-- **Accessibility** — barrier-free interaction across all user groups
-- **Privacy** — DSGVO-compliant by design
-- **Interoperability** — open standards over closed vendor ecosystems
+CoSiMo is part of the **NEXT.IN.NRW** innovation program. See the [vision](docs/vision/vision.md) for goals, principles, and scope.
 
 ---
 
@@ -50,7 +46,6 @@ cosimo/
 │   ├── architecture/      # System design and component descriptions
 │   ├── governance/        # Roles, responsibilities, and processes
 │   ├── workflows/         # Operational and development workflows
-│   ├── participation/     # Contribution guidelines and access
 │   ├── security/          # Security concepts and requirements
 │   └── decisions/         # Architectural Decision Records (ADRs)
 │

@@ -16,7 +16,6 @@ This guide explains how to navigate, add, change, and remove content in the CoSi
 | `docs/architecture/` | How the system is designed — components, boundaries, data flows |
 | `docs/governance/` | Who is responsible for what, and how decisions are made |
 | `docs/workflows/` | Step-by-step processes for recurring activities |
-| `docs/participation/` | How to contribute, access levels, onboarding |
 | `docs/security/` | Security requirements, threat models, compliance notes |
 | `docs/decisions/` | Architectural Decision Records (ADRs) |
 | `system/` | Structured definitions: actors, services, permissions, data models |
