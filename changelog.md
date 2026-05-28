@@ -6,6 +6,8 @@
 
 ## 2026-05-28
 
+- Updated `README.md` — new title "System Architecture Planning", streamlined intro, "where to find what" navigation table, removed "About the Project" and "Partners" sections
+
 - Created `docs/vision/vision.md` — first full vision document for CoSiMo
 - Updated `docs/vision/vision.md` — added specific target groups, concierge character section, spatial/multisensory interaction principle, and explicit non-surveillance boundary
 - Removed `docs/participation/` folder (empty, no longer needed)
@@ -20,6 +22,8 @@
 - Removed empty folders `docs/architecture/`, `system/`, and `infrastructure/`
 - Created `docs/system/overview.md` — system component map covering MonoCab, station, CoSiMo concierge, cloud, and app
 - Updated `docs/system/overview.md` — expanded app section to cover the multi-touchpoint concept (carry-on AI, physical devices)
+- Created `docs/system/actors.md` — defines Passenger and Operator with goals, touchpoints, and constraints
+- Updated `docs/system/actors.md` — added CoSiMo, MonoCab, and Station as system actors
 - Updated `glossary.md` — added DSGVO, Foundation Model, Graceful Degradation, Privacy-by-Design, Security-by-Design
 
 ## 2026-05-27
