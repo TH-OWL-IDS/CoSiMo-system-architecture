@@ -20,5 +20,4 @@ A living guide and decision archive for the CoSiMo system architecture. See `REA
 
 ## Key files
 - `CONTRIBUTING.md` — conventions, folder guide, ADR template
-- `roadmap.md` — open work and milestones
 - `glossary.md` — shared terminology

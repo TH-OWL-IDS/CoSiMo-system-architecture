@@ -9,7 +9,6 @@ This guide explains how to navigate, add, change, and remove content in the CoSi
 | Path | What goes here |
 |---|---|
 | `README.md` | Project overview and repo orientation — keep it high-level |
-| `roadmap.md` | Milestones, open work, and upcoming decisions |
 | `glossary.md` | Shared definitions for terms used across the project |
 | `changelog.md` | A running log of all changes made to this repository |
 | `docs/vision/` | Goals, guiding principles, scope, and non-goals |
@@ -79,12 +78,6 @@ What was decided and why.
 ## Consequences
 What does this decision enable or constrain going forward?
 ```
-
----
-
-## Updating the Roadmap
-
-`roadmap.md` tracks what is planned and what is open. When work is completed, mark it as done rather than deleting it — the history of completed milestones is useful context.
 
 ---
 

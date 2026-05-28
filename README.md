@@ -17,7 +17,6 @@ This repository is the central workplace for planning and documenting the archit
 | Understand security concepts | [docs/security/](docs/security/) |
 | Contribute or add content | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | See what has changed | [changelog.md](changelog.md) |
-| See what's planned | [roadmap.md](roadmap.md) |
 
 ---
 
@@ -29,7 +28,6 @@ cosimo/
 ├── README.md              # This file
 ├── CONTRIBUTING.md        # Guide for navigating and contributing to this repo
 ├── changelog.md           # Log of all changes made to this repository
-├── roadmap.md             # Project milestones and open work
 ├── glossary.md            # Shared terminology across the project
 │
 ├── docs/
