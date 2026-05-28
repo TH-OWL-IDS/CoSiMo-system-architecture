@@ -24,6 +24,7 @@
 - Updated `docs/system/overview.md` — expanded app section to cover the multi-touchpoint concept (carry-on AI, physical devices)
 - Created `docs/system/actors.md` — defines Passenger and Operator with goals, touchpoints, and constraints
 - Updated `docs/system/actors.md` — added CoSiMo, MonoCab, and Station as system actors
+- Moved `how-to.md` content into `CONTRIBUTING.md`; updated all references in `README.md`, `CLAUDE.md`, `AGENTS.md`, `glossary.md`; deleted `how-to.md`
 - Updated `glossary.md` — added DSGVO, Foundation Model, Graceful Degradation, Privacy-by-Design, Security-by-Design
 
 ## 2026-05-27

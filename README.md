@@ -15,7 +15,7 @@ This repository is the central workplace for planning and documenting the archit
 | Understand a past architectural decision | [docs/decisions/](docs/decisions/) |
 | Look up a project-specific term | [glossary.md](glossary.md) |
 | Understand security concepts | [docs/security/](docs/security/) |
-| Contribute or add content | [how-to.md](how-to.md) |
+| Contribute or add content | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | See what has changed | [changelog.md](changelog.md) |
 | See what's planned | [roadmap.md](roadmap.md) |
 
@@ -27,7 +27,7 @@ This repository is the central workplace for planning and documenting the archit
 cosimo/
 │
 ├── README.md              # This file
-├── how-to.md              # Guide for navigating and contributing to this repo
+├── CONTRIBUTING.md        # Guide for navigating and contributing to this repo
 ├── changelog.md           # Log of all changes made to this repository
 ├── roadmap.md             # Project milestones and open work
 ├── glossary.md            # Shared terminology across the project

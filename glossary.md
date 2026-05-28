@@ -5,7 +5,7 @@ Shared terminology used across the CoSiMo system architecture. Alphabetically so
 ---
 
 **ADR (Architectural Decision Record)**
-A short document capturing the context, options considered, and reasoning behind a significant architectural choice. ADRs live in `docs/decisions/` and follow the naming pattern `NNN-short-title.md`. See [how-to.md](how-to.md) for the template.
+A short document capturing the context, options considered, and reasoning behind a significant architectural choice. ADRs live in `docs/decisions/` and follow the naming pattern `NNN-short-title.md`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the template.
 
 **DSGVO (Datenschutz-Grundverordnung)**
 The German name for the EU General Data Protection Regulation (GDPR). Governs how personal data may be collected, processed, stored, and deleted. All CoSiMo data processing must comply with DSGVO.
