@@ -35,24 +35,6 @@ For research and evaluation purposes (through milestone M10), anonymised or aggr
 
 ---
 
-## Responsibility Allocation
-
-Security responsibilities are divided across project partners based on their roles:
-
-| Area | Responsible |
-|---|---|
-| Security architecture and system design | XignSys GmbH |
-| Authentication and access control | XignSys GmbH |
-| Protection of safety-critical vehicle functions | XignSys GmbH |
-| UI/UX interactions and interface design | TH OWL |
-| User research, accessibility, and test scenarios | TH OWL |
-| AI agent integration and communication platform | XignSys GmbH (with TH OWL, HSRW) |
-| Empirical user evaluation and acceptance research | HSRW |
-
-XignSys is the authority for all decisions relating to authentication, access control, encryption, and the boundary between the concierge layer and vehicle hardware.
-
----
-
 ## System Boundary: Concierge vs. Safety-Critical Functions
 
 The concierge interacts with cabin systems (lighting, audio, climate, seat adjustment, door controls) to support passengers. Not all of these interactions carry the same risk level. The following principles define the boundary:
@@ -61,7 +43,7 @@ The concierge interacts with cabin systems (lighting, audio, climate, seat adjus
 Comfort-related functions such as lighting adjustment, audio playback, climate preferences, and information requests. The concierge may initiate or suggest these without heightened authorisation requirements.
 
 **Restricted — requires explicit authorisation and safety controls:**
-Functions that affect passenger safety or vehicle operation: door locking/unlocking, emergency signalling, overrides of vehicle systems. These functions may only be triggered through authenticated, audited pathways controlled by XignSys. The concierge layer must not have direct, unmediated access to these functions.
+Functions that affect passenger safety or vehicle operation: door locking/unlocking, emergency signalling, overrides of vehicle systems. These functions may only be triggered through authenticated, audited pathways. The concierge layer must not have direct, unmediated access to these functions.
 
 **Out of scope for the concierge:**
 Vehicle propulsion, braking, and any function classified as safety-critical by the MonoCab system specification. The concierge must fail gracefully if it cannot reach these systems, not attempt to compensate.
