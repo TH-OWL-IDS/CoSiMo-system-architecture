@@ -4,6 +4,11 @@
 
 ---
 
+## 2026-05-29
+
+- Created `research/2026-05-20-initial-system-idea.md` — early idea sketch of the full CoSiMo system topology, proposed tech stacks, and open questions per zone (cloud, MonoCab, station, app/webapp/gadgets)
+- Created `research/2026-05-29-spring-consideration.md` — brief note on Spring Boot being considered and set aside in favour of FastAPI for the current research phase
+
 ## 2026-05-28
 
 - Updated `README.md` — new title "System Architecture Planning", streamlined intro, "where to find what" navigation table, removed "About the Project" and "Partners" sections
